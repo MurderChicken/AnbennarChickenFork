@@ -219,6 +219,7 @@ monarchy = {
 				anzatara_reform
 				heroic_realm_reform
 				ohana_monarchy_reform
+				gnoll_gnollish_monarchy
 			}
 		}
 		hereditary_vs_nobility = { #Tier 2
@@ -325,6 +326,7 @@ monarchy = {
 				restructured_dhenijansari_court_reform
 				jaherian_administration
 				jaddari_mobile_centralization
+				trust_of_the_future
 				castanor_the_provincial_system
 				the_ordning
 				eordand_academical_realm
@@ -986,6 +988,9 @@ republic = {
 				koroshesh_league_reform
 				vels_bacar_bacaran_republic
 				ohana_republic_reform
+				karakhanbar_black_hearth_council_reform
+				grombari_council_reform
+				reformed_silver_council_reform
 			}
 		}
 		republican_virtues = { #Tier 2
@@ -1564,6 +1569,7 @@ tribal = {
 				supremacy_of_the_great_salla
 				promote_the_elders
 				embrace_the_artisans
+				gnoll_dominance_hierarchies_reform
 			}
 		}
 		tribal_religion = { #Tier 3
@@ -1888,6 +1894,7 @@ theocracy = {
 				prabhi_reform
 				indep_prabhi_reform
 				senapti_reform
+				cuahu_teotlehu_reform
 			}
 		}
 		internal_vs_external_mission = { #Tier 2
