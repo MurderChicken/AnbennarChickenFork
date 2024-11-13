@@ -43433,3 +43433,44 @@ U43_ideas = {
 		war_exhaustion = -0.02 #In the late 1700s, the Vanbury Guild seizes the Fograc peninsula from Murdkather. Fograc mostly support Murdkather, and they arenùt content with Vanbury rule at all.  
     }  
 }
+
+#Maulu, by JellyCow
+N01_ideas = {
+	start = {
+		vassal_forcelimit_bonus = 1
+		ae_impact = -0.1
+	}
+	
+	bonus = {
+		diplomats = 1
+	}
+	
+	trigger = {
+		tag = N01
+	}
+	free = yes
+
+	N01_one_immutable = {
+		reform_progress_growth = 0.1
+		institution_spread_from_true_faith = 0.2
+	}
+	N01_fire_follows_change = {
+		army_tradition_decay = -0.01
+	}
+	N01_change_follows_fire = {
+		idea_cost = -0.1
+	}
+	N01_echoing_rites = {
+		mages_loyalty_modifier = 0.1
+		mages_influence_modifier = 0.05
+	}
+	N01_ashen_bloom = {
+		manpower_in_true_faith_provinces = 0.15
+	}
+	N01_mountainrule = {
+		liberty_desire_from_subject_development = -0.25
+	}
+	N01_hotlali_mamuape = {
+		morale_damage_received = -0.1
+	}
+}
