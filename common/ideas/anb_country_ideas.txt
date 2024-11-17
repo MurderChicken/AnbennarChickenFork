@@ -43605,3 +43605,174 @@ V03_ideas = {
 		diplomats = 1
 	} 
 }
+
+#Maulu, by JellyCow
+N01_ideas = {
+	start = {
+		vassal_forcelimit_bonus = 1
+		ae_impact = -0.1
+	}
+	
+	bonus = {
+		diplomats = 1
+	}
+	
+	trigger = {
+		tag = N01
+	}
+	free = yes
+
+	N01_one_immutable = {
+		reform_progress_growth = 0.1
+		institution_spread_from_true_faith = 0.2
+	}
+	N01_fire_follows_change = {
+		army_tradition_decay = -0.01
+	}
+	N01_change_follows_fire = {
+		idea_cost = -0.1
+	}
+	N01_echoing_rites = {
+		mages_loyalty_modifier = 0.1
+		mages_influence_modifier = 0.05
+	}
+	N01_ashen_bloom = {
+		manpower_in_true_faith_provinces = 0.15
+	}
+	N01_mountainrule = {
+		liberty_desire_from_subject_development = -0.25
+	}
+	N01_hotlali_mamuape = {
+		morale_damage_received = -0.1
+	}
+}
+
+#Kaponaihoku, by JellyCow
+N49_ideas = {
+	start = {
+		disengagement_chance = 0.1
+		tolerance_heretic = 2
+	}
+	
+	bonus = {
+		free_adm_policy = 1
+	}
+	
+	trigger = {
+		tag = N49
+	}
+	free = yes
+
+	N49_mountain_sea = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	N49_port_storm = {
+		trade_efficiency = 0.1
+	}
+	N49_tempest_tost = {
+		shock_damage_received = -0.1
+		mages_loyalty_modifier = 0.05
+	}
+	N49_when_stars_align = {
+		global_ship_trade_power = 0.1
+		naval_tradition_from_trade = 0.25
+	}
+	N49_cloud_chasers = {
+		leader_naval_manuever = 1
+	}
+	N49_tidal_forces = {
+		num_accepted_cultures = 2
+		years_of_nationalism = -5
+	}
+	N49_ending_eye = {
+		stability_cost_modifier = -0.2
+	}
+}
+
+#Huahou/Kahiyotl, by JellyCow
+N34_ideas = {
+	start = {
+		diplomats = 1
+		tolerance_heretic = 2
+	}
+	
+	bonus = {
+		artillery_cost = -0.1
+	}
+	
+	trigger = {
+		OR = {
+			tag = N34
+			tag = N32
+		}
+	}
+	free = yes
+
+	N34_stone_storm = {
+		land_attrition = -0.15
+		naval_attrition = -0.05
+	}
+	N34_cloud_mountain = {
+		reform_progress_growth = 0.15
+	}
+	N34_sea_earth = {
+		global_trade_power = 0.1
+		diplomatic_upkeep = 1
+	}
+	N34_fire_water = {
+		naval_morale_damage_received = -0.1
+	}
+	N34_water_fire = {
+		artillery_fire = 0.25
+	}
+	N34_smoke_sky = {
+		global_autonomy = -0.05
+	}
+	N34_song_steam = {
+		movement_speed = 0.15
+		global_supply_limit_modifier = 0.25
+	}
+}
+
+#Dimang, by JellyCow
+N82_ideas = {
+	start = {
+		reform_progress_growth = 0.15
+		innovativeness_gain = 0.5
+	}
+	
+	bonus = {
+		technology_cost = -0.05
+	}
+	
+	trigger = {
+		tag = N82
+	}
+	free = yes
+
+	N82_collection_curators = {
+		idea_cost = -0.1
+	}
+	N82_shared_scrutiny = {
+		yearly_corruption = -0.1
+		advisor_pool = 1
+	}
+	N82_architects_arcane = {
+		build_cost = -0.05
+		build_time = -0.15
+	}
+	N82_tide_turners = {
+		recover_army_morale_speed = 0.1
+		global_garrison_growth = 0.1
+	}
+	N82_widget_wakers = {
+		production_efficiency = 0.1
+	}
+	N82_sacred_secrets = {
+		spy_action_cost_modifier = -0.2
+		global_spy_defence = 0.2
+	}
+	N82_life_lines = {
+		fire_damage_received = -0.1
+	}
+}

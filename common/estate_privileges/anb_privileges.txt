@@ -415,6 +415,7 @@ estate_mages_organization_religious = {
 			has_country_flag = elikhand_magic_khet
 			has_country_flag = mb_arok_ankash_flg
 			religion = anzalkatsa
+			has_reform = cuahu_teotlehu_reform
 		}
 		NOT = { has_mages_special_organization_privilege = yes }
 	}
