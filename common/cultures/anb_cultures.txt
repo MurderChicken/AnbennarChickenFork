@@ -5026,6 +5026,9 @@ taychendi_ruinborn_elf = {
 	bekauta = {
 	}
 	
+	vaikazelhi = {
+	}
+	
 	dynasty_names = {
 
 		#Generic Moon Elf Cannorized
