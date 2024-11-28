@@ -3234,6 +3234,8 @@ accretive_path_sages_of_the_misty_mountains_major_improved_desc:0 "TBD"
  kinbond:0 "Kinbond"
  kinbond_religion_desc:0 "The Kinbond is the name of the telepathic link shared by the Cursed Ones, and as such is central to their spiritual beliefs.\n\nThe Cursed Ones believe that the Great Creator shaped the world and populated it with the First People, only to realize that they were flawed, and thus decided to cleanse the world in a great frost. While most of the spirits agreed with the Great Creator, one of them, known as the East Spirit, rebelled against him, and selected those most worthy of the First People to be given part of his soul in the form of the Kinbond, so they would understand each other and not fight amongst themselves. The East Spirit then sacrificed himself to the Sun to stop the frost from consuming the world, his ashes falling on the land that would become the Forest of the Cursed Ones.\n\nThe chosen of the East Spirit would go on to form the Kins, each Kin having a shared soul going back to their progenitors from the time of the frost. The members of a Kin venerate their ancestors by reciting their tales and emulating them in their own lives, resulting in each Kin having its own epic retelling their history over the centuries."
  
+ kanolowele_religion:0 "Kanolowelean"
+
  #Speaking Memory
  speaking_memory:0 "Speaking Memory"
  speaking_memory_desc:0 ""
@@ -3245,14 +3247,19 @@ accretive_path_sages_of_the_misty_mountains_major_improved_desc:0 "TBD"
  #Endless Ocean
  endless_ocean:0 "Endless Ocean"
  endless_ocean_desc:0 ""
+
+ utubodi_religion:0 "Utubodi"
+
  #Infinite Self
  infinite_self:0 "Infinite Self"
  infinite_self_desc:0 ""
 
+ yenbenmirra_religion:0 "Yenbenmirran"
+
  #Aycha Alpa
  aycha_alpa:0 "Aycha Alpa"
  aycha_alpa_desc:0 ""
- 
+
  #Dunborgula
  dunborgula:0 "Dunborgula"
  dunborgula_desc:0 ""
@@ -3260,3 +3267,16 @@ accretive_path_sages_of_the_misty_mountains_major_improved_desc:0 "TBD"
  #Mumambarra
  mumambarra:0 "Mumambarra"
  mumambarra_desc:0 ""
+
+ mechanim_religion:0 "Mechanim"
+ manago_poku:0 "Manago-Poku"
+ manago_poku_desc:0 ""
+ gene_pillar_valley:0 "Machinist Gene Pillar"
+ gene_pillar_fingers:0 "Outflowing Gene Pillar"
+ gene_pillar_desert:0 "Sandworm Gene Pillar"
+ gene_pillar_mangroves:0 "Subaquatic Gene Pillar"
+ gene_pillar_dragon:0 "Draconic Gene Pillar"
+ gene_pillar_jungle:0 "Monstrous Gene Pillar"
+ gene_pillar_cape:0 "Titan Gene Pillar"
+ gene_pillar_lowlands:0 "Inflowing Gene Pillar"
+ gene_pillar_forest:0 "Forested Gene Pillar"
