@@ -4435,6 +4435,7 @@ karakhanbar_black_hearth_council = {
 	trigger = { 
 		has_reform = karakhanbar_black_hearth_council_reform 
 	}
+<<<<<<< HEAD
 }
 
 floodborn_council = {
@@ -4471,3 +4472,6 @@ floodborn_council = {
 		wyvernheart_is_floodborn_council = yes
 	}
 }
+=======
+}
+>>>>>>> new-master
