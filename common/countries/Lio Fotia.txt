@@ -43,7 +43,7 @@ historical_units = {
 	insyaa_lowlands_23_deepgrove_marines
 	insyaa_lowlands_23_conflagration_line
 	insyaa_lowlands_23_rootslither_stalkers
-	insyaa_lowlands_23_steelscrawl_diprotodon
+	insyaa_lowlands_23_steelscrawl_diprotodons
 	insyaa_lowlands_26_tanglevine_rangers
 	insyaa_lowlands_26_mistflame_grenadiers
 	insyaa_lowlands_28_mudskipper_dragoons

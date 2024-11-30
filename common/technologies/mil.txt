@@ -999,7 +999,7 @@ technology = {
 	enable = wastelander_14_khenurag_formation
 	enable = northern_troll_14_mammoth_ambushers
 	enable = hill_troll_14_forest_wardens
-	enable = insyaa_lowlands_14_barkskipper_crawlers
+	enable = insyaa_lowlands_14_barkskipper_lancers
 	enable = insyaa_lowlands_14_scrawlplate_diprotodons
 	enable = nuzenapu_harpy_14_aerial_gunlancers
 	
@@ -1424,7 +1424,7 @@ technology = {
 	enable = wastelander_19_lowland_wastewarriors
 	enable = northern_troll_19_chainshot_cannoneers
 	enable = hill_troll_19_inf
-	enable = insyaa_lowlands_19_branchdiver_guerillass
+	enable = insyaa_lowlands_19_branchdiver_guerillas
 	enable = insyaa_lowlands_19_scorch_rifles
 	enable = nuzenapu_harpy_19_expeditionary_rangers
 }
@@ -1707,7 +1707,7 @@ technology = {
 	enable = insyaa_lowlands_23_deepgrove_marines
 	enable = insyaa_lowlands_23_conflagration_line
 	enable = insyaa_lowlands_23_rootslither_stalkers
-	enable = insyaa_lowlands_23_steelscrawl_diprotodon
+	enable = insyaa_lowlands_23_steelscrawl_diprotodons
 	enable = nuzenapu_harpy_23_thunderlancers
 	enable = nuzenapu_harpy_23_spellwrought_aerons
 }
