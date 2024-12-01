@@ -2,7 +2,7 @@
 
 graphical_culture = polynesiangfx
 
-color = { 69  1  59 }
+color = { 255  137  1 }
 
 revolutionary_colors = { 2  4  11  }
 

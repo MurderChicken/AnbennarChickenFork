@@ -927,24 +927,6 @@ groups = {
 		}
 	}
 
-	tech_insyaa_lowlands = {	
-		start_level = 1
-		start_cost_modifier = 0
-		nation_designer_cost = {
-			trigger = {
-				capital_scope = {
-						continent = new_world		#Will need to be updated, this looks like capitals shouldnt be on these continents
-					OR = {
-						continent = north_america
-						continent = south_america
-						continent = oceania
-						}
-					}
-				}
-			value = 75
-		}
-	}
-
 	tech_mechanim = {
 		start_level = 3
 		start_cost_modifier = 0.75
@@ -986,8 +968,8 @@ groups = {
 				capital_scope = {
 						continent = oceania		
 				}
-			value = 75
 			}
+			value = 75
 		}
 	}
 
@@ -999,8 +981,8 @@ groups = {
 				capital_scope = {
 						continent = oceania		
 				}
-			value = 75
 			}
+			value = 75
 		}
 	}
 
@@ -1012,8 +994,8 @@ groups = {
 				capital_scope = {
 						continent = oceania		
 				}
-			value = 75
 			}
+			value = 75
 		}
 	}
 
@@ -1025,8 +1007,8 @@ groups = {
 				capital_scope = {
 						continent = oceania		
 				}
-			value = 75
 			}
+			value = 75
 		}
 	}
 
@@ -1038,8 +1020,8 @@ groups = {
 				capital_scope = {
 						continent = oceania		
 				}
-			value = 75
 			}
+			value = 75
 		}
 	}
 
