@@ -35,7 +35,7 @@ add_historical_friend = N41 #Koahou
 		claim = 95
 		adm = 6
 		dip = 6
-		mil = 3
+		mil = 1
 	}
 	add_heir_personality = reformist_personality
 }
